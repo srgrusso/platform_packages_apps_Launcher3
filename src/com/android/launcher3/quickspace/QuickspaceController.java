@@ -25,6 +25,7 @@ import android.provider.Settings;
 import com.android.internal.util.custom.weather.WeatherClient;
 import com.android.internal.util.custom.weather.WeatherClient.WeatherInfo;
 import com.android.internal.util.custom.weather.WeatherClient.WeatherObserver;
+import com.android.internal.util.aospextended.AEXUtils;
 
 import java.util.ArrayList;
 
